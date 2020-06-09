@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sukalemon</title>
-    <link>https://www.example.com/categories/</link>
+    <link>https://dxtrleague.github.io/categories/</link>
     <description>Recent content in Categories on Sukalemon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dxtrleague.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
