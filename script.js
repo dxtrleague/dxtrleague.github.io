@@ -37,4 +37,26 @@ $(document).ready(function () {
     }
   });
 
+  //switch words effect
+  var titleLeft = ['LovesMatter', 'DoneMatter', 'WorksMatter', 'SecureMatter', 'UXMatter', 'UIMatter', 'UsableMatter', 'FastMatter'];
+  var titleRight = ['Mobile Apps', 'CRM Software', 'ERP Dashboard', 'Booking Apps', 'Micro Payments', 'Topup Billing', 'Point of Sales'];    
+  $wordLeft = $('.title-left');
+  $wordRight = $('.title-right');
+
+  setInterval(function (){
+      $wordLeft.fadeOut(function () {
+          $wordLeft.text('#'+titleLeft[rnd(0,titleLeft.length-1)]).fadeIn();
+      });
+  }, 3000);
+
+  setInterval(function (){
+    $wordRight.fadeOut(function () {
+        $wordRight.text(titleRight[rnd(0,titleRight.length-1)]).fadeIn();
+    });
+  }, 5000);
+
+  function rnd(min,max){
+    return Math.floor(Math.random()*(max-min+1)+min);;
+  }
+
 });
