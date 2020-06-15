@@ -38,8 +38,8 @@ $(document).ready(function () {
   });
 
   //switch words effect
-  var titleLeft = ['LovesMatter', 'DoneMatter', 'WorksMatter', 'SecureMatter', 'UXMatter', 'UIMatter', 'UsableMatter', 'FastMatter'];
-  var titleRight = ['Mobile Apps', 'CRM Software', 'ERP Dashboard', 'Booking Apps', 'Micro Payments', 'Topup Billing', 'Point of Sales'];    
+  var titleLeft = ['LovesMatter', 'DoneIsTheGoal', 'WorksGoodIsAMust', 'SecurityIsImportant', 'GoodUXMatter', 'NiceUIMatter', 'UsabilityIsTheKey', 'FasterBetter'];
+  var titleRight = ['MobileApps', 'Company Website', 'ERP Dashboard', 'BookingApps', 'Micro Payments', 'HRIS', 'Point of Sales', 'Your Business', 'Billing Topup'];    
   $wordLeft = $('.title-left');
   $wordRight = $('.title-right');
 
