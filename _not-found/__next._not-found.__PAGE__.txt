@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[47257,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ClientPageRoot"]
-3:I[36768,["/_next/static/chunks/47b03ae53c535cd4.js","/_next/static/chunks/36e090ccffbfb2dc.js","/_next/static/chunks/b70c2acfe835be27.js","/_next/static/chunks/5309c03c9aa00efd.js","/_next/static/chunks/dd9f683b454f1eea.js","/_next/static/chunks/a34589ac09618d98.js"],"default"]
-6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+2:I[47257,["/dxtrleague.github.io/_next/static/chunks/ff1a16fafef87110.js","/dxtrleague.github.io/_next/static/chunks/247eb132b7f7b574.js"],"ClientPageRoot"]
+3:I[36768,["/dxtrleague.github.io/_next/static/chunks/64e80aafaa44a3e3.js","/dxtrleague.github.io/_next/static/chunks/df28b4a57c24a5eb.js","/dxtrleague.github.io/_next/static/chunks/b70c2acfe835be27.js","/dxtrleague.github.io/_next/static/chunks/5309c03c9aa00efd.js","/dxtrleague.github.io/_next/static/chunks/dd9f683b454f1eea.js","/dxtrleague.github.io/_next/static/chunks/a34589ac09618d98.js"],"default"]
+6:I[97367,["/dxtrleague.github.io/_next/static/chunks/ff1a16fafef87110.js","/dxtrleague.github.io/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"-uw2q27LA2TBZ3W1qi7_V","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/dd9f683b454f1eea.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/a34589ac09618d98.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"qoTaSIapPWJeRPMgYMoYB","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/dxtrleague.github.io/_next/static/chunks/dd9f683b454f1eea.js","async":true}],["$","script","script-1",{"src":"/dxtrleague.github.io/_next/static/chunks/a34589ac09618d98.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:{}
 8:null

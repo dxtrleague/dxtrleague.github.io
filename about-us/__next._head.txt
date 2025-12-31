@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+2:I[97367,["/dxtrleague.github.io/_next/static/chunks/ff1a16fafef87110.js","/dxtrleague.github.io/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/dxtrleague.github.io/_next/static/chunks/ff1a16fafef87110.js","/dxtrleague.github.io/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-7:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
-0:{"buildId":"-uw2q27LA2TBZ3W1qi7_V","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+7:I[27201,["/dxtrleague.github.io/_next/static/chunks/ff1a16fafef87110.js","/dxtrleague.github.io/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+0:{"buildId":"qoTaSIapPWJeRPMgYMoYB","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"About Us - Dexter League"}],["$","meta","1",{"name":"description","content":"Pelajari lebih lanjut tentang Dexter League, visi, misi, dan nilai-nilai inti yang menjadi landasan kami dalam memberikan solusi teknologi inovatif."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.538d4aa6.ico","sizes":"345x345","type":"image/x-icon"}],["$","$L7","3",{}]]
+6:[["$","title","0",{"children":"About Us - Dexter League"}],["$","meta","1",{"name":"description","content":"Pelajari lebih lanjut tentang Dexter League, visi, misi, dan nilai-nilai inti yang menjadi landasan kami dalam memberikan solusi teknologi inovatif."}],["$","link","2",{"rel":"icon","href":"/dxtrleague.github.io/favicon.ico?favicon.538d4aa6.ico","sizes":"345x345","type":"image/x-icon"}],["$","$L7","3",{}]]
